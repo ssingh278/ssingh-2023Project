@@ -1,0 +1,620 @@
+﻿[
+    {
+        "atomicNumber": 1,
+        "name": "Hydrogen",
+        "molarMass": 1.008,
+        "symbol": "H"
+    },
+    {
+        "atomicNumber": 2,
+        "name": "Helium",
+        "molarMass": 4.0026,
+        "symbol": "He"
+    },
+    {
+        "atomicNumber": 3,
+        "name": "Lithium",
+        "molarMass": 6.94,
+        "symbol": "Li"
+    },
+    {
+        "atomicNumber": 4,
+        "name": "Beryllium",
+        "molarMass": 9.0122,
+        "symbol": "Be"
+    },
+    {
+        "atomicNumber": 5,
+        "name": "Boron",
+        "molarMass": 10.81,
+        "symbol": "B"
+    },
+    {
+        "atomicNumber": 6,
+        "name": "Carbon",
+        "molarMass": 12.01,
+        "symbol": "C"
+    },
+    {
+        "atomicNumber": 7,
+        "name": "Nitrogen",
+        "molarMass": 14.01,
+        "symbol": "N"
+    },
+    {
+        "atomicNumber": 8,
+        "name": "Oxygen",
+        "molarMass": 16,
+        "symbol": "O"
+    },
+    {
+        "atomicNumber": 9,
+        "name": "Fluorine",
+        "molarMass": 19,
+        "symbol": "F"
+    },
+    {
+        "atomicNumber": 10,
+        "name": "Neon",
+        "molarMass": 20.18,
+        "symbol": "Ne"
+    },
+    {
+        "atomicNumber": 11,
+        "name": "Sodium",
+        "molarMass": 22.99,
+        "symbol": "Na"
+    },
+    {
+        "atomicNumber": 12,
+        "name": "Magnesium",
+        "molarMass": 24.31,
+        "symbol": "Mg"
+    },
+    {
+        "atomicNumber": 13,
+        "name": "Aluminum",
+        "molarMass": 26.98,
+        "symbol": "Al"
+    },
+    {
+        "atomicNumber": 14,
+        "name": "Silicon",
+        "molarMass": 28.09,
+        "symbol": "Si"
+    },
+    {
+        "atomicNumber": 15,
+        "name": "Phosphorus",
+        "molarMass": 30.97,
+        "symbol": "P"
+    },
+    {
+        "atomicNumber": 16,
+        "name": "Sulfur",
+        "molarMass": 32.07,
+        "symbol": "S"
+    },
+    {
+        "atomicNumber": 17,
+        "name": "Chlorine",
+        "molarMass": 35.45,
+        "symbol": "Cl"
+    },
+    {
+        "atomicNumber": 18,
+        "name": "Argon",
+        "molarMass": 39.95,
+        "symbol": "Ar"
+    },
+    {
+        "atomicNumber": 19,
+        "name": "Potassium",
+        "molarMass": 39.1,
+        "symbol": "K"
+    },
+    {
+        "atomicNumber": 20,
+        "name": "Calcium",
+        "molarMass": 40.08,
+        "symbol": "Ca"
+    },
+    {
+        "atomicNumber": 21,
+        "name": "Scandium",
+        "molarMass": 44.96,
+        "symbol": "Sc"
+    },
+    {
+        "atomicNumber": 22,
+        "name": "Titanium",
+        "molarMass": 47.87,
+        "symbol": "Ti"
+    },
+    {
+        "atomicNumber": 23,
+        "name": "Vanadium",
+        "molarMass": 50.94,
+        "symbol": "V"
+    },
+    {
+        "atomicNumber": 24,
+        "name": "Chromium",
+        "molarMass": 51.99,
+        "symbol": "Cr"
+    },
+    {
+        "atomicNumber": 25,
+        "name": "Manganese",
+        "molarMass": 54.94,
+        "symbol": "Mn"
+    },
+    {
+        "atomicNumber": 26,
+        "name": "Iron",
+        "molarMass": 55.85,
+        "symbol": "Fe"
+    },
+    {
+        "atomicNumber": 27,
+        "name": "Cobalt",
+        "molarMass": 58.93,
+        "symbol": "Co"
+    },
+    {
+        "atomicNumber": 28,
+        "name": "Nickel",
+        "molarMass": 58.69,
+        "symbol": "Ni"
+    },
+    {
+        "atomicNumber": 29,
+        "name": "Copper",
+        "molarMass": 63.55,
+        "symbol": "Cu"
+    },
+    {
+        "atomicNumber": 30,
+        "name": "Zinc",
+        "molarMass": 65.38,
+        "symbol": "Zn"
+    },
+    {
+        "atomicNumber": 31,
+        "name": "Gallium",
+        "molarMass": 69.72,
+        "symbol": "Ga"
+    },
+    {
+        "atomicNumber": 32,
+        "name": "Germanium",
+        "molarMass": 72.63,
+        "symbol": "Ge"
+    },
+    {
+        "atomicNumber": 33,
+        "name": "Arsenic",
+        "molarMass": 74.92,
+        "symbol": "As"
+    },
+    {
+        "atomicNumber": 34,
+        "name": "Selenium",
+        "molarMass": 78.97,
+        "symbol": "Se"
+    },
+    {
+        "atomicNumber": 35,
+        "name": "Bromine",
+        "molarMass": 79.9,
+        "symbol": "Br"
+    },
+    {
+        "atomicNumber": 36,
+        "name": "Krypton",
+        "molarMass": 83.8,
+        "symbol": "Kr"
+    },
+    {
+        "atomicNumber": 37,
+        "name": "Rubidium",
+        "molarMass": 85.47,
+        "symbol": "Rb"
+    },
+    {
+        "atomicNumber": 38,
+        "name": "Strontium",
+        "molarMass": 87.62,
+        "symbol": "Sr"
+    },
+    {
+        "atomicNumber": 39,
+        "name": "Yttrium",
+        "molarMass": 88.91,
+        "symbol": "Y"
+    },
+    {
+        "atomicNumber": 40,
+        "name": "Zirconium",
+        "molarMass": 91.22,
+        "symbol": "Zr"
+    },
+    {
+        "atomicNumber": 41,
+        "name": "Niobium",
+        "molarMass": 92.91,
+        "symbol": "Nb"
+    },
+    {
+        "atomicNumber": 42,
+        "name": "Molybdenum",
+        "molarMass": 95.94,
+        "symbol": "Mo"
+    },
+    {
+        "atomicNumber": 43,
+        "name": "Technetium",
+        "molarMass": 98,
+        "symbol": "Tc"
+    },
+    {
+        "atomicNumber": 44,
+        "name": "Ruthenium",
+        "molarMass": 101.1,
+        "symbol": "Ru"
+    },
+    {
+        "atomicNumber": 45,
+        "name": "Rhodium",
+        "molarMass": 102.9,
+        "symbol": "Rh"
+    },
+    {
+        "atomicNumber": 46,
+        "name": "Palladium",
+        "molarMass": 106.4,
+        "symbol": "Pd"
+    },
+    {
+        "atomicNumber": 47,
+        "name": "Silver",
+        "molarMass": 107.9,
+        "symbol": "Ag"
+    },
+    {
+        "atomicNumber": 48,
+        "name": "Cadmium",
+        "molarMass": 112.4,
+        "symbol": "Cd"
+    },
+    {
+        "atomicNumber": 49,
+        "name": "Indium",
+        "molarMass": 114.8,
+        "symbol": "In"
+    },
+    {
+        "atomicNumber": 50,
+        "name": "Tin",
+        "molarMass": 118.7,
+        "symbol": "Sn"
+    },
+    {
+        "atomicNumber": 51,
+        "name": "Antimony",
+        "molarMass": 121.8,
+        "symbol": "Sb"
+    },
+    {
+        "atomicNumber": 52,
+        "name": "Tellurium",
+        "molarMass": 127.6,
+        "symbol": "Te"
+    },
+    {
+        "atomicNumber": 53,
+        "name": "Iodine",
+        "molarMass": 126.9,
+        "symbol": "I"
+    },
+    {
+        "atomicNumber": 54,
+        "name": "Xenon",
+        "molarMass": 131.3,
+        "symbol": "Xe"
+    },
+    {
+        "atomicNumber": 55,
+        "name": "Cesium",
+        "molarMass": 132.9,
+        "symbol": "Cs"
+    },
+    {
+        "atomicNumber": 56,
+        "name": "Barium",
+        "molarMass": 137.3,
+        "symbol": "Ba"
+    },
+    {
+        "atomicNumber": 57,
+        "name": "Lanthanum",
+        "molarMass": 138.9,
+        "symbol": "La"
+    },
+    {
+        "atomicNumber": 58,
+        "name": "Cerium",
+        "molarMass": 140.1,
+        "symbol": "Ce"
+    },
+    {
+        "atomicNumber": 59,
+        "name": "Praseodymium",
+        "molarMass": 140.9,
+        "symbol": "Pr"
+    },
+    {
+        "atomicNumber": 60,
+        "name": "Neodymium",
+        "molarMass": 144.2,
+        "symbol": "Nd"
+    },
+    {
+        "atomicNumber": 61,
+        "name": "Promethium",
+        "molarMass": 145,
+        "symbol": "Pm"
+    },
+    {
+        "atomicNumber": 62,
+        "name": "Samarium",
+        "molarMass": 150.4,
+        "symbol": "Sm"
+    },
+    {
+        "atomicNumber": 63,
+        "name": "Europium",
+        "molarMass": 152,
+        "symbol": "Eu"
+    },
+    {
+        "atomicNumber": 64,
+        "name": "Gadolinium",
+        "molarMass": 157.3,
+        "symbol": "Gd"
+    },
+    {
+        "atomicNumber": 65,
+        "name": "Terbium",
+        "molarMass": 158.9,
+        "symbol": "Tb"
+    },
+    {
+        "atomicNumber": 66,
+        "name": "Dysprosium",
+        "molarMass": 162.5,
+        "symbol": "Dy"
+    },
+    {
+        "atomicNumber": 67,
+        "name": "Holmium",
+        "molarMass": 164.9,
+        "symbol": "Ho"
+    },
+    {
+        "atomicNumber": 68,
+        "name": "Erbium",
+        "molarMass": 167.3,
+        "symbol": "Er"
+    },
+    {
+        "atomicNumber": 69,
+        "name": "Thulium",
+        "molarMass": 168.9,
+        "symbol": "Tm"
+    },
+    {
+        "atomicNumber": 70,
+        "name": "Ytterbium",
+        "molarMass": 173,
+        "symbol": "Yb"
+    },
+    {
+        "atomicNumber": 71,
+        "name": "Lutetium",
+        "molarMass": 175,
+        "symbol": "Lu"
+    },
+    {
+        "atomicNumber": 72,
+        "name": "Hafnium",
+        "molarMass": 178.5,
+        "symbol": "Hf"
+    },
+    {
+        "atomicNumber": 73,
+        "name": "Tantalum",
+        "molarMass": 180.9,
+        "symbol": "Ta"
+    },
+    {
+        "atomicNumber": 74,
+        "name": "Tungsten",
+        "molarMass": 183.8,
+        "symbol": "W"
+    },
+    {
+        "atomicNumber": 75,
+        "name": "Rhenium",
+        "molarMass": 186.2,
+        "symbol": "Re"
+    },
+    {
+        "atomicNumber": 76,
+        "name": "Osmium",
+        "molarMass": 190.2,
+        "symbol": "Os"
+    },
+    {
+        "atomicNumber": 77,
+        "name": "Iridium",
+        "molarMass": 192.2,
+        "symbol": "Ir"
+    },
+    {
+        "atomicNumber": 78,
+        "name": "Platinum",
+        "molarMass": 195.1,
+        "symbol": "Pt"
+    },
+    {
+        "atomicNumber": 79,
+        "name": "Gold",
+        "molarMass": 197,
+        "symbol": "Au"
+    },
+    {
+        "atomicNumber": 80,
+        "name": "Mercury",
+        "molarMass": 200.6,
+        "symbol": "Hg"
+    },
+    {
+        "atomicNumber": 81,
+        "name": "Thallium",
+        "molarMass": 204.4,
+        "symbol": "Tl"
+    },
+    {
+        "atomicNumber": 82,
+        "name": "Lead",
+        "molarMass": 207.2,
+        "symbol": "Pb"
+    },
+    {
+        "atomicNumber": 83,
+        "name": "Bismuth",
+        "molarMass": 208.9,
+        "symbol": "Bi"
+    },
+    {
+        "atomicNumber": 84,
+        "name": "Polonium",
+        "molarMass": 209,
+        "symbol": "Po"
+    },
+    {
+        "atomicNumber": 85,
+        "name": "Astatine",
+        "molarMass": 210,
+        "symbol": "At"
+    },
+    {
+        "atomicNumber": 86,
+        "name": "Radon",
+        "molarMass": 222,
+        "symbol": "Rn"
+    },
+    {
+        "atomicNumber": 87,
+        "name": "Francium",
+        "molarMass": 223,
+        "symbol": "Fr"
+    },
+    {
+        "atomicNumber": 88,
+        "name": "Radium",
+        "molarMass": 226,
+        "symbol": "Ra"
+    },
+    {
+        "atomicNumber": 89,
+        "name": "Actinium",
+        "molarMass": 227,
+        "symbol": "Ac"
+    },
+    {
+        "atomicNumber": 90,
+        "name": "Thorium",
+        "molarMass": 232,
+        "symbol": "Th"
+    },
+    {
+        "atomicNumber": 91,
+        "name": "Protactinium",
+        "molarMass": 231,
+        "symbol": "Pa"
+    },
+    {
+        "atomicNumber": 92,
+        "name": "Uranium",
+        "molarMass": 238,
+        "symbol": "U"
+    },
+    {
+        "atomicNumber": 93,
+        "name": "Neptunium",
+        "molarMass": 237,
+        "symbol": "Np"
+    },
+    {
+        "atomicNumber": 94,
+        "name": "Plutonium",
+        "molarMass": 244,
+        "symbol": "Pu"
+    },
+    {
+        "atomicNumber": 95,
+        "name": "Americium",
+        "molarMass": 243,
+        "symbol": "Am"
+    },
+    {
+        "atomicNumber": 96,
+        "name": "Curium",
+        "molarMass": 247,
+        "symbol": "Cm"
+    },
+    {
+        "atomicNumber": 97,
+        "name": "Berkelium",
+        "molarMass": 247,
+        "symbol": "Bk"
+    },
+    {
+        "atomicNumber": 98,
+        "name": "Californium",
+        "molarMass": 251,
+        "symbol": "Cf"
+    },
+    {
+        "atomicNumber": 99,
+        "name": "Einsteinium",
+        "molarMass": 252,
+        "symbol": "Es"
+    },
+    {
+        "atomicNumber": 100,
+        "name": "Fermium",
+        "molarMass": 257,
+        "symbol": "Fm"
+    },
+    {
+        "atomicNumber": 101,
+        "name": "Mendelevium",
+        "molarMass": 258,
+        "symbol": "Md"
+    },
+    {
+        "atomicNumber": 102,
+        "name": "Nobelium",
+        "molarMass": 259,
+        "symbol": "No"
+    },
+    {
+        "atomicNumber": 103,
+        "name": "Lawrencium",
+        "molarMass": 262.11,
+        "symbol": "Lr"
+    }
+]

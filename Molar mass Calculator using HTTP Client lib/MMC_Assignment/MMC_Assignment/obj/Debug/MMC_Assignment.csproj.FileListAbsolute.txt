@@ -1,0 +1,14 @@
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\bin\Debug\MMC_Assignment.exe.config
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\bin\Debug\MMC_Assignment.exe
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\bin\Debug\MMC_Assignment.pdb
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.csproj.AssemblyReference.cache
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.csproj.SuggestedBindingRedirects.cache
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.Properties.Resources.resources
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.csproj.GenerateResource.cache
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.csproj.CoreCompileInputs.cache
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.exe
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.pdb
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\bin\Debug\Newtonsoft.Json.dll
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.csproj.CopyComplete
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.MMC.resources
+R:\NAIT\SEMESTER 4\2800\mmc-a-ss-from-iit\MMC_Assignment\MMC_Assignment\obj\Debug\MMC_Assignment.g.resources
