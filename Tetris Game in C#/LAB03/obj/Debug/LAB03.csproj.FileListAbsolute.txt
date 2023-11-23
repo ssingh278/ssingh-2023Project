@@ -1,0 +1,13 @@
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\bin\Debug\LAB03.exe.config
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\bin\Debug\LAB03.exe
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\bin\Debug\LAB03.pdb
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\bin\Debug\GDIDrawer.dll
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.csproj.AssemblyReference.cache
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.csproj.SuggestedBindingRedirects.cache
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.Form1.resources
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.Properties.Resources.resources
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.csproj.GenerateResource.cache
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.csproj.CoreCompileInputs.cache
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.csproj.CopyComplete
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.exe
+C:\Users\sshar\OneDrive\Desktop\SharrySVN\cmpe2300\LABS\LAB03\LAB03\obj\Debug\LAB03.pdb
