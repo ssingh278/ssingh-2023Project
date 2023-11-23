@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumGuessClient", "NumGuess\NumGuessClient.csproj", "{98A1BE4F-5779-4855-9F00-56CCFCF75531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumGuessServer", "NumGuessServer\NumGuessServer.csproj", "{6452D162-7F10-4E48-B521-308C99C928CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A1BE4F-5779-4855-9F00-56CCFCF75531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A1BE4F-5779-4855-9F00-56CCFCF75531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A1BE4F-5779-4855-9F00-56CCFCF75531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A1BE4F-5779-4855-9F00-56CCFCF75531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6452D162-7F10-4E48-B521-308C99C928CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6452D162-7F10-4E48-B521-308C99C928CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6452D162-7F10-4E48-B521-308C99C928CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6452D162-7F10-4E48-B521-308C99C928CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E55AB4-45BA-472A-B60A-1A50822EAC17}
+	EndGlobalSection
+EndGlobal
