@@ -1,0 +1,6 @@
+ => npm install styled-components
+    style components
+
+
+=> npm install @react-navigation/native, npm install @react-navigation/native-stack,npm install react-native-screens react-native-safe-area-context
+   move from one screen to another
